@@ -24,7 +24,7 @@ A simple and interactive web-based temperature converter built using **HTML**, *
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ---
 
