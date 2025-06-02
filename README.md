@@ -15,8 +15,8 @@ A simple and interactive web-based temperature converter built using **HTML**, *
 
 ## 📷 Preview
 
-![Screenshot](screenshot.png)  
-<sub>Add a screenshot of your UI here (optional).</sub>
+ ![Screenshot 2025-06-02 124308](https://github.com/user-attachments/assets/8ba98208-0858-4174-bc0d-39d13bdf5502)
+
 
 ---
 
